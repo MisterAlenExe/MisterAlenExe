@@ -1,7 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on [LearnParser](https://github.com/MisterAlenExe/LearnParser) and [MoodleTelegramBot](https://github.com/MisterAlenExe/MoodleTelegramBot).
+<b>🔭 I’m currently working on [LearnParser](https://github.com/MisterAlenExe/LearnParser) and [MoodleTelegramBot](https://github.com/MisterAlenExe/MoodleTelegramBot).</b>
 
-🌱 I’m currently learning Java.
+<b>🌱 I’m currently learning Java.</b>
 
 
 ## 🌐 Socials:
