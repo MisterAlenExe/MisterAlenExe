@@ -1,5 +1,5 @@
 # 💫 About Me:
-<b>🔭 I’m currently working on [LearnParser](https://github.com/MisterAlenExe/LearnParser)</b>
+<b>🔭 I’m currently working on [openai-telegram-bot](https://github.com/MisterAlenExe/openai-telegram-bot)</b>
 
 <b>🌱 I’m currently learning Java language.</b>
 
