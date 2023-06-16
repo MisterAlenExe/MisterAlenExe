@@ -1,7 +1,7 @@
 # 💫 About Me:
 <b>🔭 I’m currently working on [MoodleTelegramBot](https://github.com/MisterAlenExe/MoodleTelegramBot)</b>
 
-<b>🌱 I’m currently learning Java language.</b>
+<b>🌱 I’m currently learning Flutter/Dart.</b>
 
 
 # 💻 Tech Stack:
