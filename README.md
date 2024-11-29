@@ -6,11 +6,12 @@
 ---
 
 ### 🛠️ Technologies & Tools  
-**Languages**: Dart, Python, JavaScript, TypeScript  
-**Frameworks**: Flutter, FastAPI, React, Next.js  
-**AI/ML**: OpenAI APIs, TensorFlow, scikit-learn, OpenCV  
-**DevOps**: Docker, CI/CD, Azure, GCP  
-**Databases**: PostgreSQL, Redis  
+- **Languages**: Dart, Python, JavaScript, TypeScript  
+- **Frameworks**: Flutter, FastAPI, React, Next.js  
+- **AI/ML**: LangChain, LangGraph, OpenAI API, Anthropic API, Google Gemini API  
+- **DevOps**: Docker, CI/CD, Azure, GCP  
+- **Databases**: PostgreSQL, Redis  
+
 
 ---
 
