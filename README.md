@@ -1,13 +1,12 @@
 # 👋 Hi, I'm Alen Sultanov
 
-🚀 **Founding Engineer at Doro**  
-🌐 **Full-Stack Developer | AI Engineer**
+🌐 **Flutter Developer | AI Engineer**
 
 ---
 
 ### 🛠️ Technologies & Tools  
-- **Languages**: Dart, Python, JavaScript, TypeScript  
-- **Frameworks**: Flutter, FastAPI, React, Next.js  
+- **Languages**: Dart, Python
+- **Frameworks**: Flutter, FastAPI
 - **AI/ML**: LangChain, LangGraph, OpenAI API, Anthropic API, Google Gemini API  
 - **DevOps**: Docker, CI/CD, Azure, GCP  
 - **Databases**: PostgreSQL, Redis  
