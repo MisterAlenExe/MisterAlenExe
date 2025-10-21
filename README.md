@@ -16,7 +16,7 @@
 
 ### 🏆 Highlights  
 - InnovateX AI/ML Hackathon Winner (2023)  
-- 1.5+ years of mobile development with Flutter  
+- 2.5+ years of mobile development with Flutter  
 
 ---
 
